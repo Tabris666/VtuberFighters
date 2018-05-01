@@ -4,11 +4,32 @@ Vtuberが集う格ゲー
 
 ![格ゲー](https://github.com/omegasisters/VtuberFighters/blob/master/images/thumb.png)
 
-## 現在参戦中のキャラクター
+## ハッシュタグ
+[#VtuberFighters](https://twitter.com/search?vertical=default&q=%23VtuberFighters)
+
+## ゲームについて
+* ガチな格ゲーというよりは、Vtuberを知れるほんわかお祭りゲー(\*´ω`\*)という目で見てくれるとうれしいです。
+* キャラクターの使える技は基本的に全て一緒です。
+* 体格差による調整を多少いれています。
+* おめシスが更新してますが、手一杯でバランス調整よりキャラ追加優先になってしまいます。(ごめんよぉ)
+* いっぱい遊んでSNSに感想を投稿してね！ [#VtuberFighters](https://twitter.com/search?vertical=default&q=%23VtuberFighters)
+
+## 現在参戦中のキャラクター(50音順 敬称略)
+### ico通夜の黄泉巡りch [[YouTube](https://www.youtube.com/channel/UCGFD_8TRHhlpjfqGhLUSk4g)]
+* Icotsu
+* 法要通夜
+### Uka's room [[YouTube](https://www.youtube.com/channel/UCk0dNVAdlgn4ynURwAq_z2A)]
+* 届木ウカ
+### 異世界VTuberエルミナ [[YouTube](https://www.youtube.com/channel/UCGu_Yfe0HiMV4ffHvkVd9Jg)]
+* 女神エルミナ
 ### おめがシスターズ [[YouTube](https://www.youtube.com/channel/UCNjTjd2-PMC8Oo_-dCEss7A)]
 * おめがレイ
 * おめがリオ
 * おめがレリオ
+### 世界クルミ [[YouTube](https://www.youtube.com/channel/UCHooCsg7FEVBGVKUE_RR0DA)]
+* 世界クルミ
+### 〜旅するバーチャルyoutuber〜動く城のフィオ [[YouTube](https://www.youtube.com/channel/UCiJr4MX-DrlKgLYC0luCjpQ)]
+* 動く城のフィオ
 
 ## Vtuber Fightersの使用用途
 **動画撮影やスクショなどを、SNSやYouTubeなどに投稿OK!**
@@ -26,11 +47,14 @@ Vtuberが集う格ゲー
 
 ### 3Dモデルについて
 * FBX形式(Unityで動作するHumanoidモデル)、またはVRMモデルでも問題ありません。
-* FBXの場合、揺れものなどの設定が行えない場合があります。
+* FBXの場合、揺れものなどの設定が行えない場合があります。また、テクスチャデータもご一緒にお送りください。
+* 3Dモデルの権利は全てご本人がお持ちのモデルである必要があります。(権利的にグレーなモデルではない)
+* 3Dモデルは公序良俗に反したモデルではない必要があります。
 
 ### アイコンについて
 * 基本的にYouTubeで利用しているアイコンを利用させてもらいます。
 * キャラクターのアイコン指定があればそちらで登録します。
+* 複数キャラクターがいる場合、アイコンを用意して頂く必要があります。サイズは256px x 256pxです。
 
 ### 注意事項
 * 提供していただいたモデルはVtuber Fighters以外では利用しません。
