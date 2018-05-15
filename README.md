@@ -4,6 +4,9 @@ Vtuberが集う格ゲー
 
 ![格ゲー](https://github.com/omegasisters/VtuberFighters/blob/master/images/thumb.png)
 
+## ダウンロードリンク
+ダウンロードは[こちら](https://github.com/omegasisters/VtuberFighters/releases)から
+
 ## ハッシュタグ
 [#VtuberFighters](https://twitter.com/search?vertical=default&q=%23VtuberFighters)
 
@@ -18,6 +21,10 @@ Vtuberが集う格ゲー
 ### ico通夜の黄泉巡りch [[YouTube](https://www.youtube.com/channel/UCGFD_8TRHhlpjfqGhLUSk4g)]
 * Icotsu
 * 法要通夜
+### kaluru_雪猫カゥル [[YouTube](https://www.youtube.com/channel/UCqlbdk8XtMSxogRDNMzRrxA)]
+* 雪猫カゥル
+### Mari Channel [[YouTube](https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A)]
+* パンディ
 ### Uka's room [[YouTube](https://www.youtube.com/channel/UCk0dNVAdlgn4ynURwAq_z2A)]
 * 届木ウカ
 ### 異世界VTuberエルミナ [[YouTube](https://www.youtube.com/channel/UCGu_Yfe0HiMV4ffHvkVd9Jg)]
@@ -26,10 +33,16 @@ Vtuberが集う格ゲー
 * おめがレイ
 * おめがリオ
 * おめがレリオ
+### クーテトラチャンネル [[YouTube](https://www.youtube.com/channel/UCTqV6u2RJE4DqfLALsGuyAw)]
+* クーテトラ
 ### 世界クルミ [[YouTube](https://www.youtube.com/channel/UCHooCsg7FEVBGVKUE_RR0DA)]
 * 世界クルミ
 ### 〜旅するバーチャルyoutuber〜動く城のフィオ [[YouTube](https://www.youtube.com/channel/UCiJr4MX-DrlKgLYC0luCjpQ)]
 * 動く城のフィオ
+### バーチャルYouTuber万楽えね [[YouTube](https://www.youtube.com/channel/UCMaXopOC-gQ_NFTkq7esf4w)]
+* 万楽えね
+### バーチャル園児-めいちゃんねる [[YouTube](https://www.youtube.com/channel/UCZx7wgGNs2UFyRRtLoNur9Q)]
+* 小山内めい
 
 ## Vtuber Fightersの使用用途
 **動画撮影やスクショなどを、SNSやYouTubeなどに投稿OK!**
