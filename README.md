@@ -39,8 +39,6 @@ Vtuberが集う格ゲー
 * 世界クルミ
 ### 〜旅するバーチャルyoutuber〜動く城のフィオ [[YouTube](https://www.youtube.com/channel/UCiJr4MX-DrlKgLYC0luCjpQ)]
 * 動く城のフィオ
-### バーチャルYouTuber万楽えね [[YouTube](https://www.youtube.com/channel/UCMaXopOC-gQ_NFTkq7esf4w)]
-* 万楽えね
 ### バーチャル園児-めいちゃんねる [[YouTube](https://www.youtube.com/channel/UCZx7wgGNs2UFyRRtLoNur9Q)]
 * 小山内めい
 
