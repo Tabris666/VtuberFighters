@@ -23,6 +23,8 @@ Vtuberが集う格ゲー
 * 法要通夜
 ### kaluru_雪猫カゥル [[YouTube](https://www.youtube.com/channel/UCqlbdk8XtMSxogRDNMzRrxA)]
 * 雪猫カゥル
+### Kimino Yumeka Official [[YouTube](https://www.youtube.com/channel/UCMXKL1LgqMILqdavdc0DtVQ)]
+* 公野ゆめか
 ### Mari Channel [[YouTube](https://www.youtube.com/channel/UCfiK42sBHraMBK6eNWtsy7A)]
 * パンディ
 ### Uka's room [[YouTube](https://www.youtube.com/channel/UCk0dNVAdlgn4ynURwAq_z2A)]
@@ -41,6 +43,10 @@ Vtuberが集う格ゲー
 * 動く城のフィオ
 ### バーチャル園児-めいちゃんねる [[YouTube](https://www.youtube.com/channel/UCZx7wgGNs2UFyRRtLoNur9Q)]
 * 小山内めい
+### まほろチャンネル [[YouTube](https://www.youtube.com/channel/UCtCXaX0zEvYSgdkp-Po24TQ)]
+* 虹乃まほろ
+### 勇者ことね/VTuber [[YouTube](https://www.youtube.com/channel/UCHR0kaG6d7eU1wm17fx9Mvw)]
+* 勇者ことね
 
 ## Vtuber Fightersの使用用途と注意事項
 **動画撮影やスクショなどを、SNSやYouTubeなどに投稿OK!**
